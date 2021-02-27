@@ -1,5 +1,6 @@
 #!/bin/bash
 #for v1.20.4
+#all node execute, include master
 
 #添加hostname到/etc/hosts环回地址的行末
 name=`hostname`
